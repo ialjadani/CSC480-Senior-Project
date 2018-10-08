@@ -1,0 +1,23 @@
+Aug 28
+The first class of Senior Project. Talking about possible projects 
+and possible groups and what we need to do.
+
+September 17
+we decided the group members 
+Hall, Rebecca, 
+Aljadani, Ibrahim Abdulhakim,
+Lebron, Christian,
+Bradford, Samuel.
+
+Sept 23
+Group members: Sam, Chris, Rebecca, and me. We decided on group project for CFC. 
+We Met with them and we talked about a variety of projects but settled on one. 
+Receiving data from Excel file, moving it to DB, then throwing it into graphs. 
+Point of contact: Elaine Deschamps.
+
+Oct 7
+Laid out a game plan on Github, where we can move cards from 
+the ToDo to Doing to Done columns. Sam taking an example from Excel 
+and I am doing Shiny example to give to Elaine to see if this is what they want
+Sam working on that email. Rebecca working on throw Data into DB (SQLite) 
+and make sure there shouldn't be any nulls. Christian will create an ERD for DB.
