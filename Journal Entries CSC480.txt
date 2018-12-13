@@ -21,3 +21,23 @@ the ToDo to Doing to Done columns. Sam taking an example from Excel
 and I am doing Shiny example to give to Elaine to see if this is what they want
 Sam working on that email. Rebecca working on throw Data into DB (SQLite) 
 and make sure there shouldn't be any nulls. Christian will create an ERD for DB.
+
+
+Oct 21
+Met on 9th to go over ETL to DB. Nelson suggested looking at forecast performance. We weren't sure the scope of the project till after 
+out meeting with Elaine on the 15th. We talked about their desires and she was game with the layout we had in Excel. All of us clarified 
+any confusion. Narrowed focus to data warehouse, which would be beneficial for future forecasts.
+
+Nov 4
+We are working on cleaning data, the most tedious part of this project. We've outlined how we would like to ETL the data and the schema. 
+I am working on R and data cleaning, Sam is working on database design and data cleaning, Rebecca is working on data cleaning and paper 
+writing, and Chris is working on data cleaning.
+
+Nov 18
+Dr. Nelson says that we don't have to focus on cleaning all the data, just enough to have a good sample for our database and R analysis. 
+So we've been discussing meeting every class day after we all get back from break to start trying to wrap up the project.
+
+
+Dec 2
+Preparing for the presentation and paper. We are wrapping up our database design and R graphs.
+
